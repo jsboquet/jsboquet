@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsboquet
+- 👋 Hi, I’m Joel Santaeulària Boquet
 - 👀 I’m interested in new media, data visualization and communication
 - 🌱 I’m currently learning React at IT Academy
 - 📫 You can reach me at jsboquet@gmail.com :)
